@@ -1,10 +1,14 @@
 body
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     color: blue;
 =======
     color: red;
 >>>>>>> 5a04659 (Modifiqué la cabezera y el color del texto)
+=======
+    color: #333;
+>>>>>>> d8f81e1 (solución a errores en código de css)
     text-align: center;
     font-family: Arial;
     font-size: 16px;
